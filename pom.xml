@@ -96,7 +96,11 @@
       <artifactId>angular</artifactId>
       <version>1.5.8</version>
     </dependency>
-    
+     <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>bootstrap</artifactId>
+      <version>4.0.0</version>
+    </dependency>
 
     <!-- Tests -->
     <dependency>
