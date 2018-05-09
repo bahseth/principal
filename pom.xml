@@ -45,13 +45,13 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/alecharp/simple-app.git</connection>
-    <developerConnection>scm:git:https://github.com/alecharp/simple-app.git</developerConnection>
-    <url>https://github.com/alecharp/simple-app</url>
+    <connection>scm:git:https://github.com/bahseth/principal.git</connection>
+    <developerConnection>scm:git:https://github.com/bahseth/principal.git</developerConnection>
+    <url>https://github.com/bahseth/principal.git</url>
   </scm>
 
   <properties>
-    <java.version>1.8</java.version>
+    <java.version>10.0.1</java.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -96,11 +96,7 @@
       <artifactId>angular</artifactId>
       <version>1.5.8</version>
     </dependency>
-    <dependency>
-      <groupId>org.webjars.npm</groupId>
-      <artifactId>bootstrap</artifactId>
-      <version>4.0.0-alpha.4</version>
-    </dependency>
+    
 
     <!-- Tests -->
     <dependency>
